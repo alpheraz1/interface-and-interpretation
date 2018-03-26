@@ -1,0 +1,233 @@
+#editorial-statement {
+    width: 70vw;
+    padding: 4vw;
+    padding-top: 10vw;
+    font-size: 20px;
+    left: 10vw;
+    letter-spacing: 1.3px;
+    line-height: 50px;
+    position: relative;
+    top: -5vw;
+}  
+
+
+.landing_page {
+    padding-left: 5vw;
+    font-size: 13vw;
+    text-align: left;
+    color: black;
+    
+
+}
+
+.menu {
+    width: 10vw;
+    height: 10vw;
+    display: block;
+    float: inherit;
+    position: fixed;
+    background-color: yellow;
+    border-radius: 25vw;
+    z-index: 9999;
+    left: 60%;
+    margin: 200px;
+    top: 10%;
+    
+}
+
+#section0 {
+    border: solid yellow 4px;
+    display: block;
+    padding: 0vw;
+}
+
+/* jake essay*/
+
+
+#section1 {
+    border: solid yellow 4px;
+    display: block;
+    top: 20vw;
+    color: #FFFFFF;
+    padding: 5vw;
+}
+
+
+.essay_jake {
+    width: 80%;
+    line-height: 45px;
+    font-size: 35px;
+    color: #FFFFFF;
+    z-index: 99999;
+        font-family: "le-monde-livre-std";
+}
+
+.background_jake {
+    background-color:blue;
+}
+
+    /* nelleke essay*/
+    .essay_nelleke {
+    font-family: 'Libre Baskerville', serif;
+    width:80vw;
+    position: absolute;
+    left:10vw;
+    font-size: 35px;
+            line-height: 45px;
+
+    color: white;
+    }
+
+
+    #h1nelleke{
+    font-family: 'Libre Baskerville', serif;
+    color:#ff0000;
+    text-transform: uppercase;
+
+    }
+
+
+    .background_nelleke {
+    background-color:#0323c1;
+    }
+    
+
+        /* mady essay*/
+
+        .background_may {
+        background-color:black;
+        }
+
+
+
+        #section3 {
+        color: white;
+        top: 40px;
+        font-family: 'Roboto Mono', monospace;
+        width:60vw;
+        font-size: 70px;
+        background-color: black;
+        color: white;
+        padding-left: 40px;
+
+        }
+
+
+
+        .essay_may {
+        font-size: 35px;
+        font-family: 'Roboto Mono', monospace;
+        padding-left: 40px;
+        padding-top: 60px;
+
+        }
+
+
+
+h1 {
+    top: 40px;
+    font-family: "le-monde-livre-std";
+    width:60vw;
+    font-size: 70px;
+    
+}
+
+
+#link_black {
+    color: black;
+    text-decoration: none;
+}
+
+
+.link_white {
+    color: white;
+    text-decoration: none;
+    
+}
+
+#link_white {
+    color: white;
+    text-decoration: none;
+    
+}
+
+.link_cyan {
+    color: cyan;
+    text-decoration: none;
+    
+}
+
+
+#link_cyan {
+    color: cyan;
+    text-decoration: none;
+    
+}
+
+#video {
+    display: block;
+    z-index: 9999;
+}
+
+
+.essay_jelle {
+    font-family: 'IBM Plex Mono', monospace;
+    font-weight: 900; 
+    color: cyan;
+    background-color: blue;
+    font-size: 34pt;
+    padding-top: 60px;
+    padding-left: 8vw;
+    padding-right: 5vw;
+    margin:0px;
+}
+
+
+.black_text {
+    color:black;
+}
+
+.black{
+    background:black;
+    color: black;
+}
+
+.red {
+    background-color: red;
+    
+}
+
+.white {
+    color: white;
+
+
+}
+
+.blue {
+    background-color:blue;
+}
+
+.none {
+    display: none;
+    visibility: hidden;
+}
+
+.transparent {
+    color:transparent;
+    border: solid white 4px;
+    box-shadow: 10px 10px 8px #125bff;
+    opacity: .3;
+    
+}
+
+#video {
+    display: block;
+    float: right;
+    position: absolute;
+    opacity: .8;
+    z-index: 99;
+    right: 10%;
+    width:560px ;
+    height:315px; 
+
+}
